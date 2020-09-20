@@ -6,10 +6,11 @@
 SegmentSys s1;
 SegmentSys s2;
 
+
 void setup() {
   size(500, 500);
   
-  s1 = new SegmentSys(10, 50);
+  s1 = new SegmentSys(20, 50);
   s2 = new SegmentSys(10, 50);
 }
 
