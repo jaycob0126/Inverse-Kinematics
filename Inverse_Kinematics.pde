@@ -1,3 +1,8 @@
+/**
+*This is an inverse Kinematics code
+*that follows the mouse pointer
+*/
+
 SegmentSys s1;
 SegmentSys s2;
 
